@@ -7,6 +7,11 @@
     <groupId>com.atguigu.testgit</groupId>
     <artifactId>testgit</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+<dependencies>
+    <dependency>
+        <groupId>1111</groupId>
+        <artifactId>111</artifactId>
+    </dependency>
+</dependencies>
 
 </project>
